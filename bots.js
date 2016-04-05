@@ -26,7 +26,7 @@ public class JavaSample
 
             URI uri = builder.build();
             HttpGet request = new HttpGet(uri);
-            request.setHeader("Ocp-Apim-Subscription-Key", "{subscription key}");
+            request.setHeader("Ocp-Apim-Subscription-Key", "{11bf33f80eda406a90151e9c8e54e83c}");
 
 
             // Request body
